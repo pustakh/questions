@@ -1,0 +1,9 @@
+- what is machine learning
+- what are type of machine learning, and more importantly what is the basis of classification?
+- what is supervised learning?
+- what is unsupervised learning?
+- what is semi supervised learning?
+- what is reinforcement learning?
+- what to choose for a task supervised or unsupervised?
+	- https://en.wikipedia.org/wiki/Unsupervised_learning#/media/File:Task-guidance.png
+- 
